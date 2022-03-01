@@ -21,8 +21,8 @@ $pkg install bash curl git
 $git clone https://github.com/Kedjaw3n/Psqli-dumper
 $cd Psqli-dumper
 $bash Dump.sh
-<font color="red">
+<br>
 #[!]GretZ To All Member Agressiv1njector Team[!]#
-</font>
+<br>
 
 Thx for Versailles ~ Cans21 ~ Sec7or Team ~ Surabaya HackerLink
